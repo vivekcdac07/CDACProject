@@ -1,0 +1,13 @@
+## Technical Architecture
+
+- **Front-end:** React.js
+- **Back-end:** Spring Boot
+- **Database:** MySQL
+- **Development Environment:** Eclipse IDE
+- **Version Control:** Git
+
+### Important Versions
+
+- **JDK:** 11
+- **Lombok:**
+- **Node.js:** 16
